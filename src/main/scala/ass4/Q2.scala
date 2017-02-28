@@ -1,3 +1,5 @@
+package ass4
+
 import org.apache.spark.sql.SaveMode
 import org.apache.spark.{SparkConf, SparkContext}
 

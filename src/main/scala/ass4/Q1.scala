@@ -1,5 +1,6 @@
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkConf
+package ass4
+
+import org.apache.spark.{SparkConf, SparkContext}
 
 object SparkQi {
   def main(args: Array[String]) {
